@@ -1,0 +1,2 @@
+module TokubaisHelper
+end

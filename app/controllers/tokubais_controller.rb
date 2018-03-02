@@ -1,0 +1,2 @@
+class TokubaisController < ApplicationController
+end
